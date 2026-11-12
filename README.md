@@ -11,7 +11,7 @@ I am passionate about turning raw data into clear, visual stories that help team
 ### 🛠️ Tech Stack & Tools
 
 * **Data Analysis & Querying:** SQL (MySQL), Microsoft Excel (Advanced Formulas, Pivot Tables, Power Query)
-* **Data Visualization & BI:** Power BI, Tableau
+* **Data Visualization & BI:** Power BI, Tableau, Looker Studio
 * **Data Operations:** Data Cleaning, Quality Assurance (QA), Schema Structuring & Data Annotation
 
 ---
